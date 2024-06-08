@@ -49,14 +49,14 @@ a {
     background:
       linear-gradient(
         to right,
-        rgba(100, 200, 200, 1),
-        rgba(100, 200, 200, 1)
+        #4d4c4c,
+        rgb(71, 70, 70)
       ),
       linear-gradient(
         to right,
-        rgba(255, 0, 0, 1),
-        rgba(255, 0, 180, 1),
-        rgba(0, 100, 200, 1)
+        rgb(124, 121, 121),
+        rgb(159, 152, 157),
+        rgb(108, 106, 106)
     );
     background-size: 100% 3px, 0 3px;
     background-position: 100% 100%, 0 100%;
